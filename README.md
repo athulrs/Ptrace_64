@@ -1,2 +1,4 @@
-# Ptrace_64
-Convert x86 32_bit to 64_bit prgms
+Based on the article:
+http://pramode.net/articles/lfy/ptrace/pramode.html
+
+Programs are on x86 32_bit converted to 64_bit prgms
